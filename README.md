@@ -1,7 +1,5 @@
 # yellow-taxi-analysis
 
-# Yellow Taxi Cleaning & Analysis
-
 ## Overview
 This repository contains a data cleaning and exploratory analysis project using a real-world **Yellow Taxi trip dataset**.  
 The goal of this project is to demonstrate **practical, business-oriented data analysis skills** using Python and pandas.
